@@ -77,7 +77,7 @@ export class chuo extends plugin {
                 e.reply([
                     segment.at(e.operator_id),
                     `\n你想干嘛, 竟敢戳我亲爱滴${master}, 胆子好大啊你`,
-                    segment.image(path + `/resources/chuochuo/pic/生气.jpg`),
+                    segment.image(path + `/resources/chuochuo/pic/生气.gif`),
                 ], true);
                 
                 // 反击戳一次
